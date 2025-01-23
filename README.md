@@ -3,9 +3,11 @@
 This Project Focused On Developing An Interactive Tableau Dashboard To Visualize And Analyze Extensive Call Center Data, Aiming To Enhance Operational Efficiency And Customer Satisfaction.
 
 
+
 ## Project Description:-
 
 The Primary Goal Of This Project Was To Create A Dynamic And Interactive Dashboard Using Tableau That Provides Detailed Insights Into Various Aspects Of Call Center Operations. 
+
 
 
 #### 1) Insights Into Call Volume, Sentiment, And Complaint Types:- The Project Aims To Provide Detailed Insights Into The Volume Of Calls, Customer Sentiment, And The Types Of Complaints Received.
@@ -16,12 +18,15 @@ The Primary Goal Of This Project Was To Create A Dynamic And Interactive Dashboa
 
 #### 4) Enable Data-driven Decision-Making For Call Center Operations:- The Objective Is To Facilitate Data-driven Decision-making Processes To Enhance Call Center Operations And Improve Overall Efficiency.
 
+
  
 ## Data Integration And Visualization:- 
 
 The Dashboard Aggregates Data From Call Logs, Transcripts, Surveys, And Other Sources. It Employs Various Charts, Metrics, And Filters To Analyze The Data Across Different Dimensions.
 
+
 #### Key Visualizations:-
+
 
 #### 1) Call Volume And Sentiment Breakdowns:- Visual Representations Of Call Volumes Segmented By Time Periods And Customer Sentiment.
   
