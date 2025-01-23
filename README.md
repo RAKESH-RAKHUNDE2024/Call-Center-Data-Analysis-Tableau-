@@ -12,11 +12,11 @@ The Primary Goal Of This Project Was To Create A Dynamic And Interactive Dashboa
 
 #### 1) Insights Into Call Volume, Sentiment, And Complaint Types:- The Project Aims To Provide Detailed Insights Into The Volume Of Calls, Customer Sentiment, And The Types Of Complaints Received.
 
-#### 2) Identify Trends In Response Time And Service Level Adherence:- The Goal Is To Identify Trends And Patterns In Response Times And Adherence To Service Level Agreements (Slas).
+#### 2) Identify Trends In Response Time And Service Level Adherence:- The Goal Is To Identify Trends And Patterns In Response Times And Adherence To Service Level Agreements (SLAS).
 
 #### 3) Compare Performance Across Different Channels And Locations:- The Project Compares Performance Metrics Across Various Communication Channels (Call Center, Email, Chat, Web) And Different Geographical Locations.
 
-#### 4) Enable Data-driven Decision-Making For Call Center Operations:- The Objective Is To Facilitate Data-driven Decision-making Processes To Enhance Call Center Operations And Improve Overall Efficiency.
+#### 4) Enable Data-driven Decision-Making For Call Center Operations:- The Objective Is To Facilitate Data-driven Decision-Making Processes To Enhance Call Center Operations And Improve Overall Efficiency.
 
 
  
